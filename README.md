@@ -1,4 +1,6 @@
-# Baixando o projeto
+# Projeto Space-Django ALura (CRUD e persistência no S3 da AWS )
+
+## Baixando o projeto
 
 Primeiramente, é necessário baixar o projeto em nossa máquina, então temos duas alternativas:
 
