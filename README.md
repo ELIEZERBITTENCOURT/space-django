@@ -38,7 +38,8 @@ Uma janela de seleção de arquivos será aberta. Vamos navegar até "projeto > 
 Pronto! O interpretador correto foi selecionado.
 
 Essa etapa é muito importante para confirmar que estamos trabalhando com o Python presente na virtualenv. Do contrário, podemos nos deparar com erros no futuro.
-Instalando os requirements
+
+## Instalando os requirements
 
 Por fim, faremos a instalação dos recursos listados no arquivo ```requirements.txt```. Eles são essenciais para o funcionamento do projeto, o próprio Django consta nessa lista!
 
